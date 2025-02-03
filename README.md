@@ -23,4 +23,4 @@ O objetivo deste projeto √© desenvolver um modelo preditivo para estimar os pre√
 
 ## Dataset
 
-O dataset pode ser acessado [aqui](https://raw.githubusercontent.com/isadoralucena/ds-challenge/data/dataset.csv).
+O dataset pode ser acessado [aqui](https://raw.githubusercontent.com/isadoralucena/ds-challenge/main/data/dataset.csv).
